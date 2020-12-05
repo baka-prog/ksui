@@ -145,7 +145,6 @@
 }
 .k-ipt{
     height: 40px;
-    line-height: 7px;
     border: 1px solid transparent;
     background-color: rgb(255, 255, 255);
     border-color: rgb(141, 141, 141);
@@ -167,7 +166,6 @@
 }
 .k-ipt:hover{
     height: 40px;
-    line-height: 7px;
     border: 1px solid transparent;
     background-color: rgb(255, 255, 255);
     border-color: rgb(185, 182, 182);
@@ -176,4 +174,28 @@
     -moz-border-radius:5px;
     -ms-border-radius:5px;
     -o-border-radius:5px;
+}
+.kj-btn{
+    height: 40px;
+    line-height: 7px;
+    border: 1px solid transparent;
+    background: rgb(198,56,249);
+    background: linear-gradient(149deg, rgba(198,56,249,1) 11%, rgba(66,205,210,1) 95%);
+
+    border-radius:12px;
+    -webkit-border-radius:12px;
+    -moz-border-radius:12px;
+    -ms-border-radius:12px;
+    -o-border-radius:12px;
+
+}
+.kj-btn:hover{
+    height: 40px;
+    line-height: 7px;
+    border: 1px solid transparent;
+    background-color: rgb(185, 182, 182);
+    background: rgb(210,113,246);
+    background: linear-gradient(149deg, rgba(210,113,246,1) 11%, rgba(94,215,220,1) 95%);
+    border-radius:12px;
+
 }
